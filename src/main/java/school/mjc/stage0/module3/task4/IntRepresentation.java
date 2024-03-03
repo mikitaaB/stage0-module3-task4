@@ -7,10 +7,10 @@ public class IntRepresentation {
         int intA = 97;
         int intR = 114;
 
-        int charC = (char) intC;
-        int charH = (char) intH;
-        int charA = (char) intA;
-        int charR = (char) intR;
+        char charC = (char) intC;
+        char charH = (char) intH;
+        char charA = (char) intA;
+        char charR = (char) intR;
 
         System.out.println(charC);
         System.out.println(charH);
